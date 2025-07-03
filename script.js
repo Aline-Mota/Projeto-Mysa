@@ -8,14 +8,14 @@ function toggleMode() {
   //   html.classList.add('dark');
   // }
 
-  //pegar a tag img
+  //pegar a tag img.
   const img = document.querySelector('#profile img');
-  //substituir a imagem
+  //substituir a imagem.
   if (html.classList.contains('dark')) {
-  //se tiver no dark mode, adicionar a imagem dark
+  //se tiver no dark mode, adicionar a imagem dark.
     img.setAttribute('src', './assets/gabi2.png');
   } else {
-  //se não tiver no dark mode, manter a imagem normal
+  //se não tiver no dark mode, manter a imagem normal.
     img.setAttribute('src', './assets/gabi.png');
   }
 }
