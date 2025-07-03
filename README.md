@@ -25,6 +25,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto Mysa LineArt consiste em um agregador de links estruturado para centralizar o acesso ao conceito, objetivos e aplicações práticas da proposta por meio de exemplos ilustrados. A plataforma também disponibiliza um canal de comunicação direta para esclarecimento de dúvidas e solicitação de orçamentos.
 
+[Acesse o projeto finalizado, online](https://aline-mota.github.io/projeto-Mysa/)
+
 ## ✦ Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/edL0THvpIiy3AYfUZ2ec1N/Projeto-Mysa?node-id=0-1&t=qmNfCS3oPj9TfUmf-1).
