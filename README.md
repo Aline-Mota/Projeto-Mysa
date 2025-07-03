@@ -1,7 +1,7 @@
 <h1 align="center"> Mysa LineArt </h1>
 
 <p align="center">
-Site dedicado a informações sobre o conceito de LineArt, projetos desenvolvidos e formas de contato. </p>
+Plataforma dedicada à apresentação do conceito LineArt, aos projetos pessoais desenvolvidos e aos canais de contato. </p>
 
 <!-- <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -9,10 +9,10 @@ Site dedicado a informações sobre o conceito de LineArt, projetos desenvolvido
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp; -->
 
 <p align="center">
-  <img alt="projeto Mysa LineArt" src=".github/Figma.png" width="100%">
+  <img alt="projeto Mysa LineArt" src=".github/preview.png" width="100%">
 </p>
 
-## ✡ Tecnologias
+## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -23,12 +23,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## ✧ Projeto
 
-O projeto Mysa LineArt se trata de um agregador de links criado para facilitar o acesso ao conteúdo e à proposta do trabalho, permitindo um contato direto para mais informações e solicitação de orçamentos.
+O projeto Mysa LineArt consiste em um agregador de links estruturado para centralizar o acesso ao conceito, objetivos e aplicações práticas da proposta por meio de exemplos ilustrados. A plataforma também disponibiliza um canal de comunicação direta para esclarecimento de dúvidas e solicitação de orçamentos.
 
-<!-- - [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks) -->
+<!-- [Acesse o projeto finalizado, online](https://aline-mota.github.io/projeto) -->
 
 ## ✦ Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/edL0THvpIiy3AYfUZ2ec1N/Projeto-Mysa?node-id=0-1&t=qmNfCS3oPj9TfUmf-1).
 
-Feito com ♥ by Aline Mota.
+Feito com ♥ by Aline Mota
