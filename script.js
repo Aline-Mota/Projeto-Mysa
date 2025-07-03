@@ -3,9 +3,9 @@ function toggleMode() {
   html.classList.toggle('dark');
 
   // if(html.classList.contains('dark')) {
-  //   html.classList.remove('dark')
+  //   html.classList.remove('dark');
   // } else {
-  //   html.classList.add('dark')
+  //   html.classList.add('dark');
   // }
 
   //pegar a tag img
