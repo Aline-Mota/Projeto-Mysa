@@ -30,5 +30,5 @@ O projeto Mysa LineArt consiste em um agregador de links estruturado para centra
 ## ✦ Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/fiEhpBUDI8itIdCa8oYnfr/Sem-t%C3%ADtulo?node-id=0-1&t=Qav12IRCW8hwv8U2-1).
-h
+
 Feito com ♥ by Aline Mota
