@@ -20,7 +20,7 @@ body {
 
 :root {
   --text-color: black;
-  --bg-url: url(./assets/lightline1.png);
+  --bg-url: url(./assets/darkline.png);
   --surface-color: rgba(87, 85, 85, 0.2);
   --surface-color-hover: rgba(17, 17, 17, 0.3);
   --highlight-color:  rgba(17, 17, 17, 0.3);
@@ -29,7 +29,7 @@ body {
 
 .dark {
   --text-color: white;
-  --bg-url: url(./assets/darkline1.png);
+  --bg-url: url(./assets/lightline.png);
   --surface-color: rgba(255, 255, 255, 0.144);
   --surface-color-hover: rgba(255, 255, 255, 0.349);
   --highlight-color: rgba(255, 255, 255, 0.349);
