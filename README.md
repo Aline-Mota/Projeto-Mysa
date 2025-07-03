@@ -9,7 +9,7 @@ Plataforma dedicada à apresentação do conceito LineArt, aos projetos pessoais
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp; -->
 
 <p align="center">
-  <img alt="projeto Mysa LineArt" src=".github/preview.png" width="100%">
+  <img alt="Projeto Mysa LineArt" src=".github/preview.png" width="100%">
 </p>
 
 ## Tecnologias
@@ -24,8 +24,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## ✧ Projeto
 
 O projeto Mysa LineArt consiste em um agregador de links estruturado para centralizar o acesso ao conceito, objetivos e aplicações práticas da proposta por meio de exemplos ilustrados. A plataforma também disponibiliza um canal de comunicação direta para esclarecimento de dúvidas e solicitação de orçamentos.
-
-<!-- [Acesse o projeto finalizado, online](https://aline-mota.github.io/projeto) -->
 
 ## ✦ Layout
 

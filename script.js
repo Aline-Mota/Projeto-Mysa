@@ -15,7 +15,7 @@ function toggleMode() {
   //se tiver no dark mode, adicionar a imagem dark
     img.setAttribute('src', './assets/gabi2.png');
   } else {
-//se não tiver no dark mode, manter a imagem normal
+  //se não tiver no dark mode, manter a imagem normal
     img.setAttribute('src', './assets/gabi.png');
   }
 }

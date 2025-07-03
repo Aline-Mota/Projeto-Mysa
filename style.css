@@ -9,6 +9,7 @@ body {
   /*backgorund: color image no repeat position/size */
 
   background: var(--bg-url) no-repeat top center/cover;
+  height: 100vh;
 }
 
 * {
@@ -19,7 +20,7 @@ body {
 
 :root {
   --text-color: black;
-  --bg-url: url(./assets/light.jpeg);
+  --bg-url: url(./assets/lightline1.png);
   --surface-color: rgba(87, 85, 85, 0.2);
   --surface-color-hover: rgba(17, 17, 17, 0.3);
   --highlight-color:  rgba(17, 17, 17, 0.3);
@@ -28,7 +29,7 @@ body {
 
 .dark {
   --text-color: white;
-  --bg-url: url(./assets/dark.jpeg);
+  --bg-url: url(./assets/darkline1.png);
   --surface-color: rgba(255, 255, 255, 0.144);
   --surface-color-hover: rgba(255, 255, 255, 0.349);
   --highlight-color: rgba(255, 255, 255, 0.349);
@@ -41,7 +42,8 @@ body * {
 }
 
 #container {
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   margin: 56px auto 0px;
   padding: 0 24px;
   /* border: 1px solid blue; */
@@ -164,4 +166,15 @@ ul li a:hover {
 footer {
   text-align: center;
   font-size: 14px;
+}
+
+/* media queries */
+
+@media (min-width: 700px) {
+  :root {
+    --bg-url: url(./assets/darkline.png);
+  }
+  .dark {
+    --bg-url: url(./assets/lightline.png);
+  }
 }
